@@ -1,0 +1,29 @@
+<annotation>
+  <folder>jinnan_dataset</folder>
+  <filename>000438.jpg</filename>
+  <size>
+    <width>493</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>4</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>173</xmin>
+      <ymin>300</ymin>
+      <xmax>201</xmax>
+      <ymax>333</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>4</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>202</xmin>
+      <ymin>341</ymin>
+      <xmax>256</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>
